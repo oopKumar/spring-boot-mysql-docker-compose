@@ -1,4 +1,4 @@
-package in.ashokit.binding;
+package com.oop.binding;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
