@@ -9,7 +9,7 @@
 		<version>2.3.8.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
+	<groupId>com.oop</groupId>
 	<artifactId>spring-boot-mysql</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
